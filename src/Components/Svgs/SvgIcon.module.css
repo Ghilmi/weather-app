@@ -1,0 +1,7 @@
+.icon{
+    background: none, url(https://www.amcharts.com/wp-content/themes/amcharts4/css/img/icons/weather/animated/cloudy-day-2.svg) no-repeat;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background-size: contain;
+}
