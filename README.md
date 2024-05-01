@@ -49,7 +49,7 @@ This is a weather application built using React with Vite, fetching data from Op
 ## Usage
 
 1. Obtain API keys from OpenWeatherMap and Geoapify.
-2. Create a `.env` file in the root directory.
+2. Open `.env` file in the root directory.
 3. Add your API keys to the `.env` file:
 
    ```plaintext
