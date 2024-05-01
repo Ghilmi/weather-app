@@ -90,5 +90,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Jamaoui Mouad (check on https://github.com/jamaoui ) 
 
 ---
-
-Feel free to customize this template according to your project's specific details and requirements. Make sure to replace placeholders like `your-username`, `your_openweathermap_api_key`, and `your_geoapify_api_key` with actual values.
